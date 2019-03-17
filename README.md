@@ -1,2 +1,2 @@
 # Weather-App
-Practicing React and REST API 
+Practicing React.JS and REST API 
